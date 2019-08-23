@@ -3,4 +3,5 @@
     jcr:primaryType="cq:Component"
     jcr:title="Navigation"
     sling:resourceSuperType="core/wcm/components/navigation/v1/navigation"
+          jcr:action = "action done!!!"
     componentGroup="WKND.Content"/>
