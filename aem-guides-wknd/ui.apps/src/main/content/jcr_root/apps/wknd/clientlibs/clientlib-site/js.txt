@@ -1,2 +1,4 @@
 #base=.
 components/page/page.js
+js/util.js
+components/navigation/navigation.js
